@@ -2,7 +2,7 @@
 # Description
 This project implements a real-time object detection model using the YOLO (You Only Look Once) algorithm, trained on a parking dataset to detect and classify vehicles in parking spaces. The model is optimized for efficient and accurate detection, allowing it to identify cars and other vehicle types with high precision.
 
-#Key Features:
+Key Features:
 
 Dataset: A parking dataset gotten from Kaggle (PKLot dataset), with labeled images of vehicles in various parking lot scenarios
 
